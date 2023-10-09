@@ -17,3 +17,9 @@
 
 <h2>Punto 4: HTML Y CSS</h2>
 <img src="./images/punto-4.png" alt="CSS">
+
+<h2>Punto 5: HTML Y CSS</h2>
+<img src="./images/punto-5.png" alt="CSS">
+
+<h2>Punto 6: HTML Y CSS</h2>
+<img src="./images/punto-6.png" alt="CSS">
