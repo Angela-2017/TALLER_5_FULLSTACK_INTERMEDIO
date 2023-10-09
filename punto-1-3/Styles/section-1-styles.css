@@ -1,0 +1,46 @@
+#section-1{
+    display: flex;
+    justify-content: space-between;/*para separar elementos lo mas q se pueda*/
+    margin: 25px 100px;/*borde externo*/
+    margin-top: -40px;
+    padding: 20px 40px;/*borde interno*/
+}
+
+.section-1__info{
+    width: 30%;/*ocupa el 30% del section-1 */
+}
+
+
+
+.section-1__info p{
+    color: #454868;
+    text-align: justify;
+}
+
+.section-1__card{
+    display: flex;
+    flex-direction: column;/*alineacion de columna*/
+    justify-content: space-between;/*para separar elementos lo mas q se pueda*/
+    align-items: center;/* para alinear verticalmente para q queden centrados*/
+    width: min-content;
+
+
+    height: 195px;/*alto*/
+    padding: 30px;/*borde interno*/
+    text-align: center;/*centra los elementos*/
+    border-radius: 48px;/*borde redondeado*/
+    box-shadow: 0px 10px 50px #45486833;/*para poner sombras*/
+}
+
+.section-1__card-down{/*sub clase de section__card, solo afecta a la clase q la contenga, se le asigno un margen hacia arriba para q bajara un poco con respecto a las otras card*/
+    margin-top: 50px;
+}
+
+.section-1__card h3{
+    font-family: "Jost";
+    color: #454868;
+    font-size: 18px;
+    line-height: 20px;/*controla el espacio entre líneas base*/
+    letter-spacing: -0.64px;/*modificar el espacio entre las letras, aproximándolas o separándolas entre sí*/
+    text-align: center; /*centra los elementos*/
+}

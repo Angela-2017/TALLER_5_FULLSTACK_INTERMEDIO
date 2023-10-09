@@ -1,0 +1,47 @@
+#banner{
+    display: flex;
+    margin: 25px 100px;/* borde externo*/
+    padding: 125px 80px;/* borde interno*/
+    background:linear-gradient(135deg, #14231B 25.66%, #77EAF1 113.16%);
+    /*Para dar color de fondo al banner y q que quede degradado*/
+    border-radius: 48px 48px 48px 48px;/* borde redondos al banner*/
+}
+
+h1{/* estilo para la etiqueta h1 del banner*/
+    margin: 0px;
+    font-family: "Jost";/*tipo de fuente de letra*/
+    font-size: 50px;/*tamaño letra*/
+    font-weight: 600;/*especifica el peso o grueso de la letra*/
+    color: #fff;
+    line-height: 70px;/*controla el espacio entre líneas base*/
+    letter-spacing: -0.64px;/*modificar el espacio entre las letras, aproximándolas o separándolas entre sí*/
+}
+
+#banner img{
+    width: 900px;/*ancho imagen*/
+    height: 496px;/*alto imagen*/
+    display: flex;
+    float: right;
+    margin-top: -144px;
+    margin-bottom: -299px;
+    margin-right: -82PX;
+}
+
+#banner p{
+    margin: 25px 0px;/*borde externo*/
+    color: #fff;
+}
+
+.button__white{
+    padding: 12px 35px;/*borde interno*/
+    background-color: transparent;/*color fondo*/
+    color: white;
+    border: 1px solid #fff; /*borde linea*/
+}
+
+.button__orange{
+    padding: 12px 35px;/*borde interno*/
+    background-color: #2A9448;/*color fondo*/
+    color: white;
+    border: 1px solid #fff; /*borde linea*/
+}
