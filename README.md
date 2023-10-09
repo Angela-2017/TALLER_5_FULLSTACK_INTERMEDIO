@@ -15,3 +15,5 @@
 <h2>Punto 3: Pagina web con solo codigo CSS</h2>
 <img src="./images/SitioCSS.png" alt="CSS">
 
+<h2>Punto 4: HTML Y CSS</h2>
+<img src="./images/punto-4.png" alt="CSS">
