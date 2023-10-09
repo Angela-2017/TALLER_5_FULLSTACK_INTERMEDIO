@@ -1,7 +1,7 @@
-<h1>TALLER ANGELICA RINCON</h1>
+<h1>TALLER MARIA ANGELICA RINCON</h1>
 <hr>
 
-<h2>Informacion</h2>
+
 <p>Curso: Full Stack Intermedio</p>
 <h2>Punto 1: Wireframe de Figma</h2>
 <img src="./images/DISEÑO_FIGMA.png" alt=""html>
