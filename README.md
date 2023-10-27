@@ -6,8 +6,8 @@
 <h2>Punto 1: Wireframe de Figma</h2>
 <img src="./images/DISEÑO_FIGMA.png" alt=""html>
 
-<h3>LINK PAGINA WEB GITHUB/h3>
-<a href="" target="blank">Link pagina web</a>
+<h3>LINK PAGINA WEB GITHUB</h3>
+<a href="https://angela-2017.github.io/TALLER_5_FULLSTACK_INTERMEDIO/" target="blank">Link pagina web</a>
 
 <h2>Punto 2: Pagina web con solo codigo HTML</h2>
 <img src="./images/sitioHTML.png" alt=""html>
