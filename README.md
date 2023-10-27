@@ -37,4 +37,4 @@
 <img src="./images/Animacion_1.png" alt="CSS">
 
 <h2>Punto 11: Codigo </h2>
-<img src="./images/" alt="CSS">
+<img src="./images/punto_11.png" alt="CSS">
