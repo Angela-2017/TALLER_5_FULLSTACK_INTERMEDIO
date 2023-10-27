@@ -28,4 +28,13 @@
 <img src="./images/punto7-8.png" alt="CSS">
 
 <h2>Punto 8: HTML Y CSS</h2>
-<img src="./images/PUNTO-9.png" alt="CSS">
+<img src="./images/PUNTO-8.png" alt="CSS">
+
+<h2>Punto 9: Codigo html</h2>
+<img src="./images/punto_9.png" alt="CSS">
+
+<h2>Punto 10: Codigo CSS</h2>
+<img src="./images/Animacion_1.png" alt="CSS">
+
+<h2>Punto 11: Codigo </h2>
+<img src="./images/" alt="CSS">
